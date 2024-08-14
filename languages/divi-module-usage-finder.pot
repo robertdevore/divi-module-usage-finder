@@ -1,0 +1,288 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi Module Usage Finder\n"
+"POT-Creation-Date: 2024-08-13 22:12-0400\n"
+"PO-Revision-Date: 2024-08-13 22:11-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: divi-module-usage-finder.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. Plugin Name of the plugin/theme
+#: divi-module-usage-finder.php:30 divi-module-usage-finder.php:51
+msgid "Divi Module Usage Finder"
+msgstr ""
+
+#: divi-module-usage-finder.php:31
+msgid "Divi Module Finder"
+msgstr ""
+
+#: divi-module-usage-finder.php:54
+msgid "No Divi modules found."
+msgstr ""
+
+#: divi-module-usage-finder.php:54
+msgid "Please ensure that the Divi Builder is active and working correctly."
+msgstr ""
+
+#: divi-module-usage-finder.php:58
+msgid "Select a Divi Module:"
+msgstr ""
+
+#: divi-module-usage-finder.php:76
+msgid "Security check failed. Please try again."
+msgstr ""
+
+#: divi-module-usage-finder.php:85
+msgid "Results for module"
+msgstr ""
+
+#: divi-module-usage-finder.php:91
+msgid "Title"
+msgstr ""
+
+#: divi-module-usage-finder.php:92
+msgid "Link"
+msgstr ""
+
+#: divi-module-usage-finder.php:93
+msgid "Post Type"
+msgstr ""
+
+#: divi-module-usage-finder.php:99
+msgid "Edit"
+msgstr ""
+
+#: divi-module-usage-finder.php:108
+msgid "No content found using this module."
+msgstr ""
+
+#: divi-module-usage-finder.php:126
+msgid "--"
+msgstr ""
+
+#: divi-module-usage-finder.php:127
+msgid "Accordion Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:128
+msgid "Accordion Item Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:129
+msgid "Audio Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:130
+msgid "Bar Counters Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:131
+msgid "Bar Counters Item Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:132
+msgid "Blog Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:133
+msgid "Blurb Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:134
+msgid "Button Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:135
+msgid "Circle Counter Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:136
+msgid "Code Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:137
+msgid "Comments Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:138
+msgid "Contact Form Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:139
+msgid "Contact Form Item Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:140
+msgid "Countdown Timer Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:141
+msgid "CTA Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:142
+msgid "Divider Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:143
+msgid "Filterable Portfolio Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:144
+msgid "Gallery Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:145
+msgid "Image Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:146
+msgid "Login Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:147
+msgid "Map Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:148
+msgid "Map Pin Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:149
+msgid "Menu Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:150
+msgid "Number Counter Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:151
+msgid "Portfolio Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:152
+msgid "Post Content Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:153
+msgid "Post Slider Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:154
+msgid "Post Title Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:155
+msgid "Posts Navigation Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:156
+msgid "Pricing Tables Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:157
+msgid "Pricing Tables Item Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:158
+msgid "Search Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:159
+msgid "Sidebar Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:160
+msgid "Signup Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:161
+msgid "Signup Custom Field Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:162
+msgid "Slider Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:163
+msgid "Slider Item Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:164
+msgid "Social Media Follow Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:165
+msgid "Social Media Follow Network Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:166
+msgid "Tabs Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:167
+msgid "Tab Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:168
+msgid "Team Member Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:169
+msgid "Testimonial Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:170
+msgid "Text Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:171
+msgid "Toggle Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:172
+msgid "Video Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:173
+msgid "Video Slider Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:174
+msgid "Video Slider Item Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:175
+msgid "Icon Module"
+msgstr ""
+
+#: divi-module-usage-finder.php:176
+msgid "Heading Module"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://freshysites.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Quickly find what content on your website are using specific modules"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Freshy"
+msgstr ""
