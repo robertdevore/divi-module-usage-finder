@@ -1,0 +1,295 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Module Usage Finder for Divi\n"
+"POT-Creation-Date: 2024-09-08 18:00+0000\n"
+"PO-Revision-Date: 2024-09-08 18:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: module-usage-finder-for-divi.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. Plugin Name of the plugin/theme
+#: module-usage-finder-for-divi.php:6
+msgid "Module Usage Finder for Divi"
+msgstr ""
+
+#. Plugin Description
+#: module-usage-finder-for-divi.php:8
+msgid "Quickly find what content on your website is using specific modules"
+msgstr ""
+
+#. Plugin Author
+#: module-usage-finder-for-divi.php:10
+msgid "Devio Digital"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: module-usage-finder-for-divi.php:11
+msgid "https://deviodigital.com"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:29
+msgid "Module Finder"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:38
+msgid "Divi Module Usage Finder"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:42
+msgid "No Divi modules found."
+msgstr ""
+
+#: module-usage-finder-for-divi.php:42
+msgid "Please ensure that the Divi Builder is active and working correctly."
+msgstr ""
+
+#: module-usage-finder-for-divi.php:46
+msgid "Select a Divi Module:"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:62
+msgid "Security check failed. Please try again."
+msgstr ""
+
+#: module-usage-finder-for-divi.php:69
+msgid "Results for module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:73
+msgid "Title"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:74
+msgid "Link"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:75
+msgid "Post Type"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:81
+msgid "Edit"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:89
+msgid "No content found using this module."
+msgstr ""
+
+#. Divi Module Shortcodes
+#: module-usage-finder-for-divi.php:111
+msgid "--"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:112
+msgid "Accordion Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:113
+msgid "Accordion Item Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:114
+msgid "Audio Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:115
+msgid "Bar Counters Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:116
+msgid "Bar Counters Item Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:117
+msgid "Blog Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:118
+msgid "Blurb Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:119
+msgid "Button Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:120
+msgid "Circle Counter Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:121
+msgid "Code Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:122
+msgid "Comments Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:123
+msgid "Contact Form Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:124
+msgid "Contact Form Item Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:125
+msgid "Countdown Timer Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:126
+msgid "CTA Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:127
+msgid "Divider Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:128
+msgid "Filterable Portfolio Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:129
+msgid "Gallery Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:130
+msgid "Image Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:131
+msgid "Login Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:132
+msgid "Map Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:133
+msgid "Map Pin Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:134
+msgid "Menu Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:135
+msgid "Number Counter Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:136
+msgid "Portfolio Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:137
+msgid "Post Content Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:138
+msgid "Post Slider Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:139
+msgid "Post Title Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:140
+msgid "Posts Navigation Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:141
+msgid "Pricing Tables Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:142
+msgid "Pricing Tables Item Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:143
+msgid "Search Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:144
+msgid "Sidebar Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:145
+msgid "Signup Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:146
+msgid "Signup Custom Field Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:147
+msgid "Slider Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:148
+msgid "Slider Item Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:149
+msgid "Social Media Follow Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:150
+msgid "Social Media Follow Network Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:151
+msgid "Tabs Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:152
+msgid "Tab Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:153
+msgid "Team Member Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:154
+msgid "Testimonial Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:155
+msgid "Text Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:156
+msgid "Toggle Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:157
+msgid "Video Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:158
+msgid "Video Slider Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:159
+msgid "Video Slider Item Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:160
+msgid "Icon Module"
+msgstr ""
+
+#: module-usage-finder-for-divi.php:161
+msgid "Heading Module"
+msgstr ""
