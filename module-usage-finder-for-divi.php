@@ -1,15 +1,16 @@
 <?php
 /**
  * Plugin Name:       Module Usage Finder for Divi
- * Plugin URI:        https://deviodigital.com
+ * Plugin URI:        https://github.com/deviodigital/module-usage-finder-for-divi
  * Description:       Quickly find what content on your website is using specific modules
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Devio Digital
  * Author URI:        https://deviodigital.com
  * License:           GPL-3.0+
  * License URI:       https://www.gnu.org/licenses/gpl-3.0.txt
  * Text Domain:       module-usage-finder-for-divi
  * Domain Path:       /languages
+ * Update URI:        https://github.com/deviodigital/module-usage-finder-for-divi/
  */
 
 // If this file is called directly, abort.
@@ -18,7 +19,19 @@ if ( ! defined( 'WPINC' ) ) {
 }
 
 // Define current plugin version.
-define( 'MUFD_PLUGIN_VERSION', '1.0.0' );
+define( 'MUFD_PLUGIN_VERSION', '1.0.1' );
+
+require 'plugin-update-checker/plugin-update-checker.php';
+use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
+
+$myUpdateChecker = PucFactory::buildUpdateChecker(
+	'https://github.com/deviodigital/module-usage-finder-for-divi/',
+	__FILE__,
+	'module-usage-finder-for-divi'
+);
+
+//Set the branch that contains the stable release.
+$myUpdateChecker->setBranch( 'main' );
 
 /**
  * Register the settings page as a sub-menu under the Divi tab in the WordPress admin menu.
