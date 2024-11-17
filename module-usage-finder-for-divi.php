@@ -36,7 +36,8 @@ $myUpdateChecker->setBranch( 'main' );
 /**
  * Register the settings page as a sub-menu under the Divi tab in the WordPress admin menu.
  * 
- * @since 1.0.0
+ * @since  1.0.0
+ * @return void
  */
 function mufd_admin_menu() {
     add_submenu_page(
@@ -53,7 +54,8 @@ add_action( 'admin_menu', 'mufd_admin_menu', 11 );
 /**
  * Display the settings page.
  * 
- * @since 1.0.0
+ * @since  1.0.0
+ * @return void
  */
 function mufd_settings_page() {
     // Retrieve all possible Divi module shortcodes.
@@ -61,7 +63,7 @@ function mufd_settings_page() {
     ?>
     <div class="wrap">
         <h1><?php esc_html_e( 'Divi Module Usage Finder', 'module-usage-finder-for-divi' ); ?></h1>
-        
+
         <?php if ( empty( $modules ) ) : ?>
             <p><strong><?php esc_html_e( 'No Divi modules found.', 'module-usage-finder-for-divi' ); ?></strong> <?php esc_html_e( 'Please ensure that the Divi Builder is active and working correctly.', 'module-usage-finder-for-divi' ); ?></p>
         <?php else : ?>
